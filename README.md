@@ -1,4 +1,4 @@
-Rules for the Pong Game
+# Rules for the Pong Game
 Objective: The player needs to prevent the "ball" (LED) from going off the ends by pressing buttons A or B to "bounce" it back.
 Ball Movement: The ball moves automatically from one LED to another.
 Bouncing Back: The player presses Button A to bounce the ball back left and Button B to bounce the ball back right.
