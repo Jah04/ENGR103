@@ -97,6 +97,8 @@ void moveBall() {
       gameRunning = false;
       playTune(happyTune, sizeof(happyTune) / sizeof(happyTune[0]));
 	    CircuitPlayground.speaker.say(spOVERSPEED);
+      Serial.print("Your score was: ");
+    Serial.println(gameScore);
     }
 }
 
