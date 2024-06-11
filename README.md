@@ -1,4 +1,4 @@
-#Ping Pong Game Final Project for ENGR 103.
+# Ping Pong Game Final Project for ENGR 103.
 
 ## Rules for the Pong Game
 **Objective:** The player needs to prevent the "ball" (LED) from going off the ends by pressing buttons A or B to "bounce" it back.
